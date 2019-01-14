@@ -3,6 +3,35 @@
 <title>지성홈페이지</title>
 </head>
 <body>
-<h1>안녕하세요 박지성의 홈페이지에요</h1>
+<!doctype html>
+<html>
+<head>
+<title>web - html</title>
+</head>
+<body>
+<h1>HTML이란 무엇인가?</H1>
+<P><a href="https://www.w3.org/TR/html51/">Hypertext markup language(html)</a> is the 
+standrad markup language for
+<strong>creating <u>web</u> 
+pages<strong> and web applications.web
+browsers receive HTML documents from a
+web server or from local storage and
+render them into multimedia web pages.
+html describes the structure of a web
+page semantically and originally
+incluyded cues for the appearance of the 
+documnet.<img src="ncs img.jpg" width="300">
+</p><p>HTML elements are the
+building blocks of	 HTML pages. with HTML
+construts, images and oher objects,
+such as interactive forms, may be
+embedded into the rendered page. It
+provides a means to create structured
+documents by denoting structural
+semantics for text such as headings,
+paragrphs, lists, links, quotes and
+other items. HTML elemnts are 
+delineated by tags, written using angle
+brackets,</P></body>
 
 

@@ -1,4 +1,3 @@
-# web
 <!doctype html>
 <head>
 <title>지성홈페이지</title>
